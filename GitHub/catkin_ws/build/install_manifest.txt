@@ -1,0 +1,10 @@
+/home/nvidia/catkin_ws/install/_setup_util.py
+/home/nvidia/catkin_ws/install/env.sh
+/home/nvidia/catkin_ws/install/setup.bash
+/home/nvidia/catkin_ws/install/setup.sh
+/home/nvidia/catkin_ws/install/setup.zsh
+/home/nvidia/catkin_ws/install/.rosinstall
+/home/nvidia/catkin_ws/install/lib/pkgconfig/race.pc
+/home/nvidia/catkin_ws/install/share/race/cmake/raceConfig.cmake
+/home/nvidia/catkin_ws/install/share/race/cmake/raceConfig-version.cmake
+/home/nvidia/catkin_ws/install/share/race/package.xml

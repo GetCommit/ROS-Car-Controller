@@ -1,0 +1,3116 @@
+2016-02-11 18:05:33
+The mean is 0.970322132111ms
+The standard deviation is 0.526937710482ms
+
+2016-02-11 18:05:58
+The mean is 1.22515368462ms
+The standard deviation is 0.517205763812ms
+
+2016-02-11 18:06:23
+The mean is 1.61537384987ms
+The standard deviation is 0.464643720261ms
+
+2016-02-11 18:06:48
+The mean is 1.66079878807ms
+The standard deviation is 0.413439818282ms
+
+2016-02-11 18:07:13
+The mean is 1.71501898766ms
+The standard deviation is 0.481392278545ms
+
+2016-02-11 18:07:38
+The mean is 1.71922445297ms
+The standard deviation is 0.559825040192ms
+
+2016-02-11 18:08:03
+The mean is 1.58686995506ms
+The standard deviation is 0.444170161628ms
+
+2016-02-11 18:08:28
+The mean is 1.45654559135ms
+The standard deviation is 0.534200812145ms
+
+2016-02-11 18:08:53
+The mean is 1.42466688156ms
+The standard deviation is 0.523286022719ms
+
+2016-02-11 18:09:18
+The mean is 1.54164409637ms
+The standard deviation is 0.459612548133ms
+
+2016-02-11 18:09:43
+The mean is 1.42419028282ms
+The standard deviation is 0.480923267697ms
+
+
+____________ABOVE_IS_USING_TIME__________
+2016-02-11 18:14:02
+The mean is 1.378607ms
+The standard deviation is 0.457249101203ms
+
+2016-02-11 18:14:27
+The mean is 1.348346ms
+The standard deviation is 0.462963547468ms
+
+2016-02-11 18:14:52
+The mean is 1.478703ms
+The standard deviation is 0.427979892975ms
+
+2016-02-11 18:15:17
+The mean is 1.340259ms
+The standard deviation is 0.469368198666ms
+
+2016-02-11 18:15:42
+The mean is 1.596307ms
+The standard deviation is 0.2629597512ms
+
+2016-02-11 18:16:07
+The mean is 1.606312ms
+The standard deviation is 0.258211279103ms
+
+2016-02-11 18:16:32
+The mean is 1.621046ms
+The standard deviation is 0.251122420114ms
+
+2016-02-11 18:16:57
+The mean is 1.607906ms
+The standard deviation is 0.252230805343ms
+
+2016-02-11 18:17:22
+The mean is 1.60459ms
+The standard deviation is 0.265985988165ms
+
+2016-02-11 18:17:48
+The mean is 1.600021ms
+The standard deviation is 0.270616020514ms
+
+2016-02-11 18:18:13
+The mean is 1.618348ms
+The standard deviation is 0.290915559735ms
+
+2016-02-11 18:18:38
+The mean is 1.597569ms
+The standard deviation is 0.2623313539ms
+
+2016-02-11 18:19:03
+The mean is 1.600736ms
+The standard deviation is 0.268235915388ms
+
+2016-02-11 18:19:28
+The mean is 1.613922ms
+The standard deviation is 0.268987200283ms
+
+2016-02-11 18:19:53
+The mean is 1.601993ms
+The standard deviation is 0.264031189353ms
+
+2016-02-11 18:20:18
+The mean is 1.636297ms
+The standard deviation is 0.268803885372ms
+
+2016-02-11 18:20:43
+The mean is 1.631485ms
+The standard deviation is 0.262900904858ms
+
+2016-02-11 18:21:08
+The mean is 1.628127ms
+The standard deviation is 0.272722578587ms
+
+2016-02-11 18:21:33
+The mean is 1.061487ms
+The standard deviation is 0.507370166477ms
+
+____________ABOVE_IS_USING_CLOCK__________
+
+2016-02-11 18:26:50
+The mean is 1.0573964119ms
+The standard deviation is 0.387064448354ms
+
+2016-02-11 18:27:15
+The mean is 1.18347787857ms
+The standard deviation is 0.327789781184ms
+
+2016-02-11 18:27:40
+The mean is 1.20470666885ms
+The standard deviation is 0.313500784411ms
+
+2016-02-11 18:28:05
+The mean is 1.20709943771ms
+The standard deviation is 0.329765379133ms
+
+2016-02-11 18:28:30
+The mean is 1.20002913475ms
+The standard deviation is 0.320129684513ms
+
+2016-02-11 18:28:55
+The mean is 1.22528529167ms
+The standard deviation is 0.468181039867ms
+
+2016-02-11 18:29:20
+The mean is 1.19676852226ms
+The standard deviation is 0.398146207803ms
+
+2016-02-11 18:29:45
+The mean is 1.23032212257ms
+The standard deviation is 0.356627669874ms
+
+2016-02-11 18:30:10
+The mean is 0.920518398285ms
+The standard deviation is 0.463887020671ms
+
+2016-02-11 18:34:31
+The mean is 1.24499511719ms
+The standard deviation is 0.410743637042ms
+
+2016-02-11 18:34:56
+The mean is 0.900704860687ms
+The standard deviation is 0.255598366463ms
+
+2016-02-11 18:35:21
+The mean is 0.882393836975ms
+The standard deviation is 0.146085974398ms
+
+2016-02-11 18:35:46
+The mean is 0.861884832382ms
+The standard deviation is 0.0657845021085ms
+
+2016-02-11 18:36:11
+The mean is 0.867136716843ms
+The standard deviation is 0.0765226311062ms
+
+2016-02-11 18:36:36
+The mean is 0.849122524261ms
+The standard deviation is 0.162091546244ms
+
+2016-02-11 18:37:01
+The mean is 0.838130950928ms
+The standard deviation is 0.147854987747ms
+
+2016-02-11 18:37:27
+The mean is 0.863857984543ms
+The standard deviation is 0.0647048437356ms
+
+2016-02-11 18:37:52
+The mean is 0.852601766586ms
+The standard deviation is 0.122863077486ms
+
+2016-02-11 18:38:17
+The mean is 0.860478878021ms
+The standard deviation is 0.226839502488ms
+
+2016-02-11 18:38:42
+The mean is 1.07223057747ms
+The standard deviation is 0.309292067786ms
+
+2016-02-11 18:39:07
+The mean is 1.29751181602ms
+The standard deviation is 0.168022681159ms
+
+2016-02-11 18:39:32
+The mean is 1.30485606194ms
+The standard deviation is 0.175546733549ms
+
+2016-02-11 18:39:57
+The mean is 1.36678576469ms
+The standard deviation is 0.198968984532ms
+
+2016-02-11 18:40:22
+The mean is 1.44344949722ms
+The standard deviation is 0.411196319356ms
+
+2016-02-11 18:40:47
+The mean is 1.28351688385ms
+The standard deviation is 0.380873399415ms
+
+2016-02-11 18:41:12
+The mean is 1.4094107151ms
+The standard deviation is 0.213791036916ms
+
+2016-02-11 18:41:37
+The mean is 1.41895723343ms
+The standard deviation is 0.184579103776ms
+
+2016-02-11 18:42:02
+The mean is 1.45202326775ms
+The standard deviation is 0.207909272935ms
+
+2016-02-11 18:42:27
+The mean is 1.27821421623ms
+The standard deviation is 0.49330511837ms
+
+2016-02-11 18:42:52
+The mean is 1.33737373352ms
+The standard deviation is 0.31272341061ms
+
+2016-02-11 18:43:17
+The mean is 1.4550075531ms
+The standard deviation is 0.206922137422ms
+
+2016-02-11 18:43:42
+The mean is 1.44092202187ms
+The standard deviation is 0.185794242042ms
+
+2016-02-11 18:44:07
+The mean is 1.41625261307ms
+The standard deviation is 0.249818325244ms
+
+2016-02-11 18:44:32
+The mean is 1.46010231972ms
+The standard deviation is 0.218588841607ms
+
+2016-02-11 18:44:57
+The mean is 1.44457697868ms
+The standard deviation is 0.197263873188ms
+
+2016-02-11 18:45:22
+The mean is 1.43885684013ms
+The standard deviation is 0.186275722241ms
+
+2016-02-11 18:45:47
+The mean is 1.44814181328ms
+The standard deviation is 0.200506882211ms
+
+2016-02-11 18:46:12
+The mean is 1.46439814568ms
+The standard deviation is 0.2326341598ms
+
+2016-02-11 18:46:37
+The mean is 1.46361088753ms
+The standard deviation is 0.227884821901ms
+
+2016-02-11 18:47:02
+The mean is 1.47338199615ms
+The standard deviation is 0.245194646346ms
+
+2016-02-11 18:47:27
+The mean is 1.37779760361ms
+The standard deviation is 0.224243715968ms
+
+2016-02-11 18:47:52
+The mean is 1.24193334579ms
+The standard deviation is 0.114182093586ms
+
+2016-02-11 18:48:17
+The mean is 1.4393851757ms
+The standard deviation is 0.17926643767ms
+
+2016-02-11 18:48:42
+The mean is 1.40990757942ms
+The standard deviation is 0.184859697502ms
+
+2016-02-11 18:51:47
+The mean is 1.12764406204ms
+The standard deviation is 0.574729113183ms
+
+2016-02-11 16:31:09
+The mean is 0.207062959671ms
+The standard deviation is 0.0718049829648ms
+
+2016-02-11 16:31:34
+The mean is 0.275542974472ms
+The standard deviation is 0.267492109469ms
+
+2016-02-11 16:31:59
+The mean is 0.401537179947ms
+The standard deviation is 0.429710881172ms
+
+2016-02-11 16:32:24
+The mean is 0.381098747253ms
+The standard deviation is 0.290735948827ms
+
+2016-02-11 16:32:49
+The mean is 0.550436019897ms
+The standard deviation is 0.326643371047ms
+
+2016-02-11 16:33:14
+The mean is 0.539536237717ms
+The standard deviation is 0.233981983284ms
+
+2016-02-11 16:33:39
+The mean is 0.632226467133ms
+The standard deviation is 0.208819108092ms
+
+2016-02-11 16:34:04
+The mean is 0.736689329147ms
+The standard deviation is 0.298617150229ms
+
+2016-02-11 16:34:29
+The mean is 0.808187246323ms
+The standard deviation is 0.350655413102ms
+
+2016-02-11 16:34:54
+The mean is 0.556098937988ms
+The standard deviation is 0.221830714939ms
+
+2016-02-11 16:35:19
+The mean is 0.658551454544ms
+The standard deviation is 0.302062473658ms
+
+2016-02-11 16:35:44
+The mean is 0.644420146942ms
+The standard deviation is 0.200166877368ms
+
+2016-02-11 16:36:09
+The mean is 0.647859811783ms
+The standard deviation is 0.20532887892ms
+
+2016-02-11 16:36:34
+The mean is 0.64546084404ms
+The standard deviation is 0.213980593976ms
+
+2016-02-11 16:36:59
+The mean is 0.647349357605ms
+The standard deviation is 0.211748781551ms
+
+2016-02-11 16:37:24
+The mean is 0.649317741394ms
+The standard deviation is 0.215810383684ms
+
+2016-02-11 16:37:49
+The mean is 0.65070939064ms
+The standard deviation is 0.213380156698ms
+
+2016-02-11 16:38:14
+The mean is 0.648122310638ms
+The standard deviation is 0.205424955642ms
+
+2016-02-11 16:38:39
+The mean is 0.645473718643ms
+The standard deviation is 0.217612905105ms
+
+2016-02-11 16:39:04
+The mean is 0.683754444122ms
+The standard deviation is 0.248144801365ms
+
+2016-02-11 16:39:29
+The mean is 0.564608573914ms
+The standard deviation is 0.238539062622ms
+
+2016-02-11 16:39:54
+The mean is 0.619753837585ms
+The standard deviation is 0.211237514513ms
+
+2016-02-11 16:40:19
+The mean is 0.393639326096ms
+The standard deviation is 0.133682166686ms
+
+2016-02-11 16:40:44
+The mean is 0.518002986908ms
+The standard deviation is 0.354380980328ms
+
+2016-02-11 16:41:09
+The mean is 0.621691703796ms
+The standard deviation is 0.302761512477ms
+
+2016-02-11 16:41:34
+The mean is 0.618551015854ms
+The standard deviation is 0.21149927191ms
+
+2016-02-11 16:41:59
+The mean is 0.610882759094ms
+The standard deviation is 0.192819146425ms
+
+2016-02-11 16:42:25
+The mean is 0.916888475418ms
+The standard deviation is 0.356973644312ms
+
+2016-02-11 16:42:50
+The mean is 1.14795851707ms
+The standard deviation is 0.224904096048ms
+
+2016-02-11 16:43:15
+The mean is 0.931923389435ms
+The standard deviation is 0.229350633775ms
+
+2016-02-11 16:43:40
+The mean is 0.805737257004ms
+The standard deviation is 0.190612504567ms
+
+2016-02-11 16:44:05
+The mean is 1.2318148613ms
+The standard deviation is 0.182006867341ms
+
+2016-02-11 16:44:30
+The mean is 1.23340582848ms
+The standard deviation is 0.163676589935ms
+
+2016-02-11 16:44:55
+The mean is 1.24171376228ms
+The standard deviation is 0.157385529227ms
+
+2016-02-11 16:45:20
+The mean is 1.23179626465ms
+The standard deviation is 0.148852942336ms
+
+2016-02-11 16:45:45
+The mean is 0.857799768448ms
+The standard deviation is 0.236385779516ms
+
+2016-02-11 16:46:10
+The mean is 0.987407922745ms
+The standard deviation is 0.2773079748ms
+
+2016-02-11 16:46:35
+The mean is 1.25089001656ms
+The standard deviation is 0.142986359077ms
+
+2016-02-11 16:47:00
+The mean is 0.834402084351ms
+The standard deviation is 0.217635233958ms
+
+2016-02-11 16:47:25
+The mean is 1.20300269127ms
+The standard deviation is 0.204331669545ms
+
+2016-02-11 16:47:50
+The mean is 1.241502285ms
+The standard deviation is 0.173163782537ms
+
+2016-02-11 16:48:15
+The mean is 1.24191951752ms
+The standard deviation is 0.153320629986ms
+
+2016-02-11 16:48:40
+The mean is 1.20982980728ms
+The standard deviation is 0.222016579448ms
+
+2016-02-11 16:49:05
+The mean is 1.23446893692ms
+The standard deviation is 0.140599945914ms
+
+2016-02-11 16:49:30
+The mean is 1.24004149437ms
+The standard deviation is 0.118802679092ms
+
+2016-02-11 16:49:55
+The mean is 1.24468255043ms
+The standard deviation is 0.192186920859ms
+
+2016-02-11 16:50:20
+The mean is 1.24738287926ms
+The standard deviation is 0.168780849293ms
+
+2016-02-11 16:50:45
+The mean is 1.24655437469ms
+The standard deviation is 0.166815085071ms
+
+2016-02-11 16:51:10
+The mean is 1.2372777462ms
+The standard deviation is 0.142475282692ms
+
+2016-02-11 16:51:35
+The mean is 1.23825669289ms
+The standard deviation is 0.149748952107ms
+
+2016-02-11 16:52:00
+The mean is 1.22841787338ms
+The standard deviation is 0.125901204443ms
+
+2016-02-11 16:52:25
+The mean is 1.21093773842ms
+The standard deviation is 0.189275628194ms
+
+2016-02-11 16:52:50
+The mean is 0.803032159805ms
+The standard deviation is 0.176645852667ms
+
+2016-02-11 16:53:15
+The mean is 1.23961615562ms
+The standard deviation is 0.173504218765ms
+
+2016-02-11 16:53:40
+The mean is 0.919709444046ms
+The standard deviation is 0.247437154198ms
+
+2016-02-11 16:54:05
+The mean is 0.805012702942ms
+The standard deviation is 0.0943640432867ms
+
+2016-02-11 16:54:30
+The mean is 1.14729738235ms
+The standard deviation is 0.277252115113ms
+
+2016-02-11 16:54:55
+The mean is 1.25384116173ms
+The standard deviation is 0.217417111709ms
+
+2016-02-11 16:55:20
+The mean is 0.993980884552ms
+The standard deviation is 0.275192510579ms
+
+2016-02-11 16:55:45
+The mean is 0.795715093613ms
+The standard deviation is 0.064551313676ms
+
+2016-02-11 16:56:10
+The mean is 1.04919362068ms
+The standard deviation is 0.277184426714ms
+
+2016-02-11 16:56:36
+The mean is 1.00433540344ms
+The standard deviation is 0.278199607983ms
+
+2016-02-11 16:57:01
+The mean is 0.990340709686ms
+The standard deviation is 0.308374366275ms
+
+2016-02-11 16:57:26
+The mean is 1.1920208931ms
+The standard deviation is 0.244994481426ms
+
+2016-02-11 16:57:51
+The mean is 1.14308357239ms
+The standard deviation is 0.252766575684ms
+
+2016-02-11 16:58:16
+The mean is 0.800984621048ms
+The standard deviation is 0.0993097316265ms
+
+2016-02-11 16:58:41
+The mean is 0.80232000351ms
+The standard deviation is 0.0658106885189ms
+
+2016-02-11 16:59:06
+The mean is 0.809732675552ms
+The standard deviation is 0.0833002241502ms
+
+2016-02-11 16:59:31
+The mean is 0.795475959778ms
+The standard deviation is 0.0638578788423ms
+
+2016-02-11 16:59:56
+The mean is 0.801341295242ms
+The standard deviation is 0.0705497440469ms
+
+2016-02-11 17:00:21
+The mean is 0.793666601181ms
+The standard deviation is 0.0622458440938ms
+
+2016-02-11 17:00:46
+The mean is 0.795172929764ms
+The standard deviation is 0.0774917872537ms
+
+2016-02-11 17:01:11
+The mean is 0.793318033218ms
+The standard deviation is 0.0635937363015ms
+
+2016-02-11 17:01:36
+The mean is 0.792791604996ms
+The standard deviation is 0.0586879957025ms
+
+2016-02-11 17:02:01
+The mean is 0.794316768646ms
+The standard deviation is 0.0777209706651ms
+
+2016-02-11 17:02:26
+The mean is 0.796556472778ms
+The standard deviation is 0.0890079214301ms
+
+2016-02-11 17:02:51
+The mean is 0.796609401703ms
+The standard deviation is 0.0734786182184ms
+
+2016-02-11 17:03:16
+The mean is 0.794565439224ms
+The standard deviation is 0.0704843292739ms
+
+2016-02-11 17:03:41
+The mean is 0.792891740799ms
+The standard deviation is 0.0742001908256ms
+
+2016-02-11 17:04:06
+The mean is 0.794811010361ms
+The standard deviation is 0.0731228530383ms
+
+2016-02-11 17:04:31
+The mean is 0.805296421051ms
+The standard deviation is 0.0779246763958ms
+
+2016-02-11 17:04:56
+The mean is 0.801907539368ms
+The standard deviation is 0.0844722089071ms
+
+2016-02-11 17:05:21
+The mean is 0.79195189476ms
+The standard deviation is 0.0780786619204ms
+
+2016-02-11 17:05:46
+The mean is 0.791555166245ms
+The standard deviation is 0.0597197720047ms
+
+2016-02-11 17:06:11
+The mean is 0.789499759674ms
+The standard deviation is 0.0872196102294ms
+
+2016-02-11 17:06:36
+The mean is 0.791969776154ms
+The standard deviation is 0.0717683642488ms
+
+2016-02-11 17:07:02
+The mean is 0.790922641754ms
+The standard deviation is 0.0557683874004ms
+
+2016-02-11 17:07:27
+The mean is 0.789558410645ms
+The standard deviation is 0.0570393258882ms
+
+2016-02-11 17:07:52
+The mean is 0.791172504425ms
+The standard deviation is 0.075783562165ms
+
+2016-02-11 17:08:17
+The mean is 0.78865981102ms
+The standard deviation is 0.0674649697616ms
+
+2016-02-11 17:08:42
+The mean is 0.788041353226ms
+The standard deviation is 0.0476201693625ms
+
+2016-02-11 17:09:07
+The mean is 0.786790132523ms
+The standard deviation is 0.0511567548963ms
+
+2016-02-11 17:09:32
+The mean is 0.789976119995ms
+The standard deviation is 0.0609005219849ms
+
+2016-02-11 17:09:57
+The mean is 0.796602010727ms
+The standard deviation is 0.0678076935561ms
+
+2016-02-11 17:10:22
+The mean is 0.790059804916ms
+The standard deviation is 0.0488998824815ms
+
+2016-02-11 17:10:47
+The mean is 0.791072130203ms
+The standard deviation is 0.0609069391069ms
+
+2016-02-11 17:11:12
+The mean is 0.792025566101ms
+The standard deviation is 0.0771535179508ms
+
+2016-02-11 17:11:37
+The mean is 0.790725946426ms
+The standard deviation is 0.0640369180064ms
+
+2016-02-11 17:12:02
+The mean is 0.789213657379ms
+The standard deviation is 0.0507157975935ms
+
+2016-02-11 17:12:27
+The mean is 0.790117025375ms
+The standard deviation is 0.0684938680849ms
+
+2016-02-11 17:12:52
+The mean is 0.793931245804ms
+The standard deviation is 0.0865622808729ms
+
+2016-02-11 17:13:17
+The mean is 0.790445566177ms
+The standard deviation is 0.046567881739ms
+
+2016-02-11 17:13:42
+The mean is 0.787979841232ms
+The standard deviation is 0.0451650859736ms
+
+2016-02-11 17:14:07
+The mean is 0.788372278214ms
+The standard deviation is 0.0459396139086ms
+
+2016-02-11 17:14:32
+The mean is 0.792707443237ms
+The standard deviation is 0.0580640885798ms
+
+2016-02-11 17:14:57
+The mean is 0.788832426071ms
+The standard deviation is 0.0615981211461ms
+
+2016-02-11 17:15:22
+The mean is 0.793242692947ms
+The standard deviation is 0.0712049222057ms
+
+2016-02-11 17:15:47
+The mean is 0.791082143784ms
+The standard deviation is 0.0690768645706ms
+
+2016-02-11 17:16:12
+The mean is 0.786247968674ms
+The standard deviation is 0.0577317997875ms
+
+2016-02-11 17:16:37
+The mean is 0.795084953308ms
+The standard deviation is 0.0951858885929ms
+
+2016-02-11 17:17:02
+The mean is 0.78964304924ms
+The standard deviation is 0.0702392629951ms
+
+2016-02-11 17:17:27
+The mean is 0.788904666901ms
+The standard deviation is 0.0643317148222ms
+
+2016-02-11 17:17:52
+The mean is 0.78582906723ms
+The standard deviation is 0.0736961477158ms
+
+2016-02-11 17:18:17
+The mean is 0.780056715012ms
+The standard deviation is 0.0642190172777ms
+
+2016-02-11 17:18:42
+The mean is 0.777523994446ms
+The standard deviation is 0.0441532569846ms
+
+2016-02-11 17:19:07
+The mean is 0.774776935577ms
+The standard deviation is 0.0467547839577ms
+
+2016-02-11 17:19:32
+The mean is 0.771958351135ms
+The standard deviation is 0.0367066742003ms
+
+2016-02-11 17:19:58
+The mean is 0.774809598923ms
+The standard deviation is 0.0374247942669ms
+
+2016-02-11 17:20:23
+The mean is 0.777034521103ms
+The standard deviation is 0.0431531442676ms
+
+2016-02-11 17:20:48
+The mean is 0.779033660889ms
+The standard deviation is 0.0560574070683ms
+
+2016-02-11 17:21:13
+The mean is 0.77780175209ms
+The standard deviation is 0.0394113277433ms
+
+2016-02-11 17:21:38
+The mean is 0.773949384689ms
+The standard deviation is 0.0366936967298ms
+
+2016-02-11 17:22:03
+The mean is 0.777856588364ms
+The standard deviation is 0.0471667262934ms
+
+2016-02-11 17:22:28
+The mean is 0.782655239105ms
+The standard deviation is 0.052680658894ms
+
+2016-02-11 17:22:53
+The mean is 0.792322158813ms
+The standard deviation is 0.0690836280415ms
+
+2016-02-11 17:23:18
+The mean is 0.789544820786ms
+The standard deviation is 0.0671426517721ms
+
+2016-02-11 17:23:43
+The mean is 0.80140709877ms
+The standard deviation is 0.0791615905544ms
+
+2016-02-11 17:24:08
+The mean is 0.805958271027ms
+The standard deviation is 0.0797784860778ms
+
+2016-02-11 17:24:33
+The mean is 0.800532817841ms
+The standard deviation is 0.0745020752225ms
+
+                                                                                              2016-02-11 16:33:05
+The mean is 1.06450295448ms
+The standard deviation is 0.446573252361ms
+
+2016-02-11 16:33:30
+The mean is 1.35208010674ms
+The standard deviation is 0.48016507067ms
+
+2016-02-11 16:33:55
+The mean is 0.772293567657ms
+The standard deviation is 0.222318548355ms
+
+2016-02-11 16:34:20
+The mean is 0.775405168533ms
+The standard deviation is 0.242267673288ms
+
+2016-02-11 16:34:45
+The mean is 1.0629966259ms
+The standard deviation is 0.469010786946ms
+
+2016-02-11 16:35:10
+The mean is 0.852141857147ms
+The standard deviation is 0.267018767346ms
+
+2016-02-11 16:35:35
+The mean is 0.827234745026ms
+The standard deviation is 0.206274326731ms
+
+2016-02-11 16:36:00
+The mean is 0.76020026207ms
+The standard deviation is 0.246454607031ms
+
+2016-02-11 16:36:25
+The mean is 0.815375566483ms
+The standard deviation is 0.318976432672ms
+
+2016-02-11 16:36:50
+The mean is 0.811589479446ms
+The standard deviation is 0.318860137569ms
+
+2016-02-11 16:37:15
+The mean is 1.27676606178ms
+The standard deviation is 0.397303341607ms
+
+2016-02-11 16:37:40
+The mean is 0.849088191986ms
+The standard deviation is 0.357475515056ms
+
+2016-02-11 16:38:06
+The mean is 0.91695690155ms
+The standard deviation is 0.231467878839ms
+
+2016-02-11 16:38:31
+The mean is 0.889185905457ms
+The standard deviation is 0.0973892986284ms
+
+2016-02-11 16:38:56
+The mean is 0.914893388748ms
+The standard deviation is 0.164058840557ms
+
+2016-02-11 16:39:21
+The mean is 0.874184608459ms
+The standard deviation is 0.0883703951212ms
+
+2016-02-11 16:39:46
+The mean is 0.853936910629ms
+The standard deviation is 0.176919664615ms
+
+2016-02-11 16:40:11
+The mean is 0.886888980865ms
+The standard deviation is 0.126395281398ms
+
+2016-02-11 16:40:36
+The mean is 0.973847150803ms
+The standard deviation is 0.487271981306ms
+
+2016-02-11 16:41:01
+The mean is 1.4909658432ms
+The standard deviation is 0.59019445992ms
+
+2016-02-11 16:41:26
+The mean is 0.882645606995ms
+The standard deviation is 0.0891908401481ms
+
+2016-02-11 16:41:51
+The mean is 0.884658098221ms
+The standard deviation is 0.100225472429ms
+
+2016-02-11 16:42:16
+The mean is 0.87796831131ms
+The standard deviation is 0.0832749493109ms
+
+2016-02-11 16:42:41
+The mean is 0.814582109451ms
+The standard deviation is 0.23577007765ms
+
+2016-02-11 16:43:06
+The mean is 1.50215268135ms
+The standard deviation is 0.476553758672ms
+
+2016-02-11 16:43:31
+The mean is 1.65940856934ms
+The standard deviation is 0.464731961554ms
+
+2016-02-11 16:43:56
+The mean is 1.70977830887ms
+The standard deviation is 0.57262523712ms
+
+2016-02-11 16:44:21
+The mean is 1.12836408615ms
+The standard deviation is 0.463179538402ms
+
+2016-02-11 16:44:46
+The mean is 0.865736722946ms
+The standard deviation is 0.404091815115ms
+
+2016-02-11 16:45:11
+The mean is 0.875999450684ms
+The standard deviation is 0.340484456827ms
+
+2016-02-11 16:45:36
+The mean is 0.898684740067ms
+The standard deviation is 0.106436474249ms
+
+2016-02-11 16:46:01
+The mean is 0.883432388306ms
+The standard deviation is 0.0947191245891ms
+
+2016-02-11 16:46:26
+The mean is 0.878576993942ms
+The standard deviation is 0.0840213744357ms
+
+2016-02-11 16:46:51
+The mean is 0.893178701401ms
+The standard deviation is 0.0980659269387ms
+
+2016-02-11 16:47:16
+The mean is 0.87915968895ms
+The standard deviation is 0.0769640413059ms
+
+2016-02-11 16:47:41
+The mean is 0.884365081787ms
+The standard deviation is 0.0884900352173ms
+
+2016-02-11 16:48:06
+The mean is 0.883937835693ms
+The standard deviation is 0.0904600859353ms
+
+2016-02-11 16:48:31
+The mean is 0.883384943008ms
+The standard deviation is 0.104897120839ms
+
+2016-02-11 16:48:56
+The mean is 0.878536224365ms
+The standard deviation is 0.0958649001335ms
+
+2016-02-11 16:49:21
+The mean is 0.886203527451ms
+The standard deviation is 0.103419686159ms
+
+2016-02-11 16:49:46
+The mean is 0.885760545731ms
+The standard deviation is 0.0945964496646ms
+
+2016-02-11 16:50:11
+The mean is 0.884991407394ms
+The standard deviation is 0.0809528520078ms
+
+2016-02-11 16:50:36
+The mean is 0.761678695679ms
+The standard deviation is 0.21969290206ms
+
+2016-02-11 16:51:01
+The mean is 0.963609695435ms
+The standard deviation is 0.40981492946ms
+
+2016-02-11 16:51:26
+The mean is 1.29446792603ms
+The standard deviation is 0.487472763471ms
+
+2016-02-11 16:51:51
+The mean is 1.30365848541ms
+The standard deviation is 0.504453641376ms
+
+2016-02-11 16:52:16
+The mean is 1.28877401352ms
+The standard deviation is 0.498820971983ms
+
+2016-02-11 16:52:41
+The mean is 1.29740190506ms
+The standard deviation is 0.473523387291ms
+
+2016-02-11 16:53:06
+The mean is 1.20025610924ms
+The standard deviation is 0.429447971172ms
+
+2016-02-11 16:53:32
+The mean is 1.25742411613ms
+The standard deviation is 0.475222636666ms
+
+2016-02-11 16:53:57
+The mean is 1.29137444496ms
+The standard deviation is 0.454415241615ms
+
+2016-02-11 16:54:22
+The mean is 1.30099773407ms
+The standard deviation is 0.504850686376ms
+
+2016-02-11 16:54:47
+The mean is 1.27893400192ms
+The standard deviation is 0.497165370865ms
+
+2016-02-11 16:55:12
+The mean is 1.246571064ms
+The standard deviation is 0.482392021336ms
+
+2016-02-11 16:55:37
+The mean is 0.875482797623ms
+The standard deviation is 0.408015870543ms
+
+2016-02-11 16:56:02
+The mean is 0.8865711689ms
+The standard deviation is 0.0932265977941ms
+
+2016-02-11 16:56:27
+The mean is 0.882103443146ms
+The standard deviation is 0.0785123472471ms
+
+2016-02-11 16:56:52
+The mean is 0.895023584366ms
+The standard deviation is 0.121191693079ms
+
+2016-02-11 16:57:17
+The mean is 0.897234916687ms
+The standard deviation is 0.236562762182ms
+
+2016-02-11 16:57:42
+The mean is 0.74472951889ms
+The standard deviation is 0.206151352383ms
+
+2016-02-11 16:58:07
+The mean is 0.801886558533ms
+The standard deviation is 0.195540773647ms
+
+2016-02-11 16:58:32
+The mean is 0.876308679581ms
+The standard deviation is 0.0994391143781ms
+
+2016-02-11 16:58:57
+The mean is 0.825429677963ms
+The standard deviation is 0.163325728633ms
+
+2016-02-11 16:59:22
+The mean is 0.87056851387ms
+The standard deviation is 0.0830479535345ms
+
+2016-02-11 16:59:47
+The mean is 0.873758554459ms
+The standard deviation is 0.095020906345ms
+
+2016-02-11 17:00:12
+The mean is 0.895199537277ms
+The standard deviation is 0.108975225053ms
+
+2016-02-11 17:00:37
+The mean is 0.892666816711ms
+The standard deviation is 0.102884382593ms
+
+2016-02-11 17:01:02
+The mean is 0.885200977325ms
+The standard deviation is 0.0963080501194ms
+
+2016-02-11 17:01:27
+The mean is 0.885320901871ms
+The standard deviation is 0.0945700810632ms
+
+2016-02-11 17:01:52
+The mean is 0.846031188965ms
+The standard deviation is 0.239414671289ms
+
+2016-02-11 17:02:17
+The mean is 0.783279657364ms
+The standard deviation is 0.284465012727ms
+
+2016-02-11 17:02:42
+The mean is 0.936510562897ms
+The standard deviation is 0.208735905246ms
+
+2016-02-11 17:03:07
+The mean is 0.874603033066ms
+The standard deviation is 0.0903993915389ms
+
+2016-02-11 17:03:32
+The mean is 0.882850408554ms
+The standard deviation is 0.0950981163313ms
+
+2016-02-11 17:03:57
+The mean is 0.888140916824ms
+The standard deviation is 0.101026337433ms
+
+2016-02-11 17:04:22
+The mean is 0.883755207062ms
+The standard deviation is 0.0830916185884ms
+
+2016-02-11 17:04:47
+The mean is 0.887858867645ms
+The standard deviation is 0.0980693310385ms
+
+2016-02-11 17:05:12
+The mean is 0.880726575851ms
+The standard deviation is 0.101202557341ms
+
+2016-02-11 17:05:37
+The mean is 0.878976821899ms
+The standard deviation is 0.0981984311302ms
+
+2016-02-11 17:06:02
+The mean is 0.88351225853ms
+The standard deviation is 0.0960943792458ms
+
+2016-02-11 17:06:27
+The mean is 0.884862422943ms
+The standard deviation is 0.0928097059384ms
+
+2016-02-11 17:06:52
+The mean is 0.880486011505ms
+The standard deviation is 0.0838751503253ms
+
+2016-02-11 17:07:17
+The mean is 0.88371348381ms
+The standard deviation is 0.0911771906386ms
+
+2016-02-11 17:07:42
+The mean is 0.854064941406ms
+The standard deviation is 0.183288500239ms
+
+2016-02-11 17:08:07
+The mean is 0.674847126007ms
+The standard deviation is 0.470599432681ms
+
+2016-02-11 17:08:32
+The mean is 1.10861825943ms
+The standard deviation is 0.308102067147ms
+
+2016-02-11 17:08:57
+The mean is 1.25625252724ms
+The standard deviation is 0.483818477135ms
+
+2016-02-11 17:09:22
+The mean is 1.2480635643ms
+The standard deviation is 0.491793818344ms
+
+2016-02-11 17:09:47
+The mean is 1.29346013069ms
+The standard deviation is 0.481246761603ms
+
+2016-02-11 17:10:12
+The mean is 1.26690745354ms
+The standard deviation is 0.509479566287ms
+
+2016-02-11 17:10:37
+The mean is 1.28926253319ms
+The standard deviation is 0.489404595274ms
+
+2016-02-11 17:11:02
+The mean is 1.23500156403ms
+The standard deviation is 0.492311983039ms
+
+2016-02-11 17:11:27
+The mean is 1.30219268799ms
+The standard deviation is 0.491047968117ms
+
+2016-02-11 17:11:52
+The mean is 1.27546548843ms
+The standard deviation is 0.472312882916ms
+
+2016-02-11 17:12:17
+The mean is 1.28144168854ms
+The standard deviation is 0.463239754066ms
+
+2016-02-11 17:12:42
+The mean is 1.31163954735ms
+The standard deviation is 0.520117351057ms
+
+2016-02-11 17:13:07
+The mean is 1.2902610302ms
+The standard deviation is 0.525299422508ms
+
+2016-02-11 17:13:32
+The mean is 1.28768372536ms
+The standard deviation is 0.466435950411ms
+
+2016-02-11 17:13:57
+The mean is 1.27978467941ms
+The standard deviation is 0.461540828533ms
+
+2016-02-11 17:14:22
+The mean is 1.32143521309ms
+The standard deviation is 0.532956612459ms
+
+2016-02-11 17:14:48
+The mean is 1.29708552361ms
+The standard deviation is 0.502497092322ms
+
+2016-02-11 17:15:12
+The mean is 1.27692556381ms
+The standard deviation is 0.471119275285ms
+
+2016-02-11 17:15:37
+The mean is 1.28273463249ms
+The standard deviation is 0.46036859064ms
+
+2016-02-11 17:16:03
+The mean is 1.2825884819ms
+The standard deviation is 0.488552647984ms
+
+2016-02-11 17:16:28
+The mean is 1.27531671524ms
+The standard deviation is 0.483837000217ms
+
+2016-02-11 17:16:53
+The mean is 1.28378462791ms
+The standard deviation is 0.534405225697ms
+
+2016-02-11 17:17:18
+The mean is 1.28397607803ms
+The standard deviation is 0.49069840115ms
+
+2016-02-11 17:17:43
+The mean is 1.29994654655ms
+The standard deviation is 0.515125727689ms
+
+2016-02-11 17:18:08
+The mean is 1.32054543495ms
+The standard deviation is 0.55361732936ms
+
+2016-02-11 17:18:33
+The mean is 1.29395151138ms
+The standard deviation is 0.480365254215ms
+
+2016-02-11 17:18:58
+The mean is 1.29146242142ms
+The standard deviation is 0.498150965591ms
+
+2016-02-11 17:19:23
+The mean is 1.23765611649ms
+The standard deviation is 0.468854788171ms
+
+2016-02-11 17:19:48
+The mean is 1.27321004868ms
+The standard deviation is 0.509584343062ms
+
+2016-02-11 17:20:13
+The mean is 1.20020341873ms
+The standard deviation is 0.424149994067ms
+
+2016-02-11 17:20:38
+The mean is 1.29613423347ms
+The standard deviation is 0.467815234419ms
+
+2016-02-11 17:21:03
+The mean is 1.29134178162ms
+The standard deviation is 0.486007621207ms
+
+2016-02-11 17:21:28
+The mean is 1.29019665718ms
+The standard deviation is 0.484867015235ms
+
+2016-02-11 17:21:53
+The mean is 1.29503917694ms
+The standard deviation is 0.512169338108ms
+
+2016-02-11 17:22:18
+The mean is 1.29712462425ms
+The standard deviation is 0.501688193832ms
+
+2016-02-11 17:22:43
+The mean is 1.28615522385ms
+The standard deviation is 0.496353878266ms
+
+2016-02-11 17:23:08
+The mean is 1.25825953484ms
+The standard deviation is 0.491368857881ms
+
+2016-02-11 17:23:33
+The mean is 1.30090689659ms
+The standard deviation is 0.476367584033ms
+
+2016-02-11 17:23:58
+The mean is 1.28209400177ms
+The standard deviation is 0.49204415272ms
+
+2016-02-11 17:24:23
+The mean is 1.27166986465ms
+The standard deviation is 0.507751451645ms
+
+2016-02-11 17:24:48
+The mean is 1.28104615211ms
+The standard deviation is 0.498242862035ms
+
+2016-02-11 17:25:13
+The mean is 1.31439256668ms
+The standard deviation is 0.529519740629ms
+
+2016-02-11 17:25:38
+The mean is 1.28588247299ms
+The standard deviation is 0.496669493363ms
+
+2016-02-11 17:26:03
+The mean is 1.28742909431ms
+The standard deviation is 0.486969220585ms
+
+2016-02-11 17:26:28
+The mean is 1.2736093998ms
+The standard deviation is 0.468426134779ms
+
+2016-02-11 17:26:53
+The mean is 1.28694868088ms
+The standard deviation is 0.497127212903ms
+
+2016-02-11 17:27:18
+The mean is 1.29511547089ms
+The standard deviation is 0.520318113353ms
+
+2016-02-11 17:27:43
+The mean is 1.2959754467ms
+The standard deviation is 0.469732553422ms
+
+2016-02-11 17:28:08
+The mean is 1.30732297897ms
+The standard deviation is 0.502723463981ms
+
+2016-02-11 17:28:33
+The mean is 1.29787373543ms
+The standard deviation is 0.502424102891ms
+
+2016-02-11 17:28:58
+The mean is 1.2863945961ms
+The standard deviation is 0.531624129339ms
+
+2016-02-11 17:29:23
+The mean is 1.26545500755ms
+The standard deviation is 0.476111498897ms
+
+2016-02-11 17:29:48
+The mean is 1.29087519646ms
+The standard deviation is 0.482391627212ms
+
+2016-02-11 17:30:14
+The mean is 1.24012804031ms
+The standard deviation is 0.466994384462ms
+
+2016-02-11 17:30:39
+The mean is 1.28184390068ms
+The standard deviation is 0.484287577658ms
+
+2016-02-11 17:31:04
+The mean is 1.29268741608ms
+The standard deviation is 0.494246655469ms
+
+2016-02-11 17:31:29
+The mean is 1.29535794258ms
+The standard deviation is 0.462489852098ms
+
+2016-02-11 17:31:54
+The mean is 1.2698328495ms
+The standard deviation is 0.489238857323ms
+
+2016-02-11 17:32:19
+The mean is 1.28443264961ms
+The standard deviation is 0.477986693949ms
+
+2016-02-11 17:32:44
+The mean is 1.29278922081ms
+The standard deviation is 0.490154913418ms
+
+2016-02-11 17:33:09
+The mean is 1.29040360451ms
+The standard deviation is 0.472623568797ms
+
+2016-02-11 17:33:34
+The mean is 1.30021715164ms
+The standard deviation is 0.515347940475ms
+
+2016-02-11 17:33:59
+The mean is 1.29785609245ms
+The standard deviation is 0.517743265802ms
+
+2016-02-11 17:34:24
+The mean is 1.31307387352ms
+The standard deviation is 0.523019267428ms
+
+2016-02-11 17:34:49
+The mean is 1.28390359879ms
+The standard deviation is 0.441722747678ms
+
+2016-02-11 17:35:14
+The mean is 1.27716946602ms
+The standard deviation is 0.466404882248ms
+
+2016-02-11 17:35:39
+The mean is 1.28223204613ms
+The standard deviation is 0.475299965878ms
+
+2016-02-11 17:36:04
+The mean is 1.26680922508ms
+The standard deviation is 0.488162994635ms
+
+2016-02-11 17:36:29
+The mean is 1.08298015594ms
+The standard deviation is 0.504635620468ms
+
+2016-02-11 17:36:54
+The mean is 0.903533697128ms
+The standard deviation is 0.138747463394ms
+
+2016-02-11 17:37:19
+The mean is 0.908774137497ms
+The standard deviation is 0.141004094002ms
+
+2016-02-11 17:37:44
+The mean is 0.902081012726ms
+The standard deviation is 0.13235889728ms
+
+2016-02-11 17:38:09
+The mean is 0.907524347305ms
+The standard deviation is 0.135334450894ms
+
+2016-02-11 17:38:34
+The mean is 0.901073694229ms
+The standard deviation is 0.132233321464ms
+
+2016-02-11 17:38:59
+The mean is 0.902209043503ms
+The standard deviation is 0.134350229102ms
+
+2016-02-11 17:39:24
+The mean is 0.899429798126ms
+The standard deviation is 0.145593324363ms
+
+2016-02-11 17:39:49
+The mean is 0.896196365356ms
+The standard deviation is 0.12903822476ms
+
+2016-02-11 17:40:14
+The mean is 0.904187202454ms
+The standard deviation is 0.139300964198ms
+
+2016-02-11 17:40:39
+The mean is 0.908845186234ms
+The standard deviation is 0.139282247664ms
+
+2016-02-11 17:41:04
+The mean is 0.905257701874ms
+The standard deviation is 0.14533513372ms
+
+2016-02-11 17:41:29
+The mean is 0.683719396591ms
+The standard deviation is 0.357950033075ms
+
+2016-02-11 17:41:54
+The mean is 0.702474355698ms
+The standard deviation is 0.190131284469ms
+
+2016-02-11 17:42:19
+The mean is 0.778235912323ms
+The standard deviation is 0.0517501402122ms
+
+2016-02-11 17:42:44
+The mean is 0.781866788864ms
+The standard deviation is 0.0539105821791ms
+
+2016-02-11 17:43:09
+The mean is 0.997986555099ms
+The standard deviation is 0.378303962584ms
+
+2016-02-11 17:43:35
+The mean is 1.30918979645ms
+The standard deviation is 0.388724194399ms
+
+2016-02-11 17:44:00
+The mean is 1.30143642426ms
+The standard deviation is 0.384116761445ms
+
+2016-02-11 17:11:36
+The mean is 1.3439218998ms
+The standard deviation is 0.619163866636ms
+
+2016-02-11 17:12:01
+The mean is 0.839732646942ms
+The standard deviation is 0.23024494693ms
+
+2016-02-11 17:12:26
+The mean is 0.845813751221ms
+The standard deviation is 0.230139289476ms
+
+2016-02-11 17:12:51
+The mean is 1.17977619171ms
+The standard deviation is 0.558078448329ms
+
+2016-02-11 17:13:16
+The mean is 1.08354377747ms
+The standard deviation is 0.449140516486ms
+
+2016-02-11 17:13:41
+The mean is 1.0552406311ms
+The standard deviation is 0.675347737646ms
+
+2016-02-11 17:14:06
+The mean is 1.42628645897ms
+The standard deviation is 0.615568293373ms
+
+2016-02-11 17:14:31
+The mean is 1.01220083237ms
+The standard deviation is 0.34762133285ms
+
+2016-02-11 17:14:56
+The mean is 0.901540517807ms
+The standard deviation is 0.13732146301ms
+
+2016-02-11 17:15:21
+The mean is 0.900695085526ms
+The standard deviation is 0.106595746479ms
+
+2016-02-11 17:15:46
+The mean is 0.905373573303ms
+The standard deviation is 0.122924175604ms
+
+2016-02-11 17:16:11
+The mean is 0.900284767151ms
+The standard deviation is 0.116455988131ms
+
+2016-02-11 17:16:36
+The mean is 0.903835058212ms
+The standard deviation is 0.126127692612ms
+
+2016-02-11 17:17:01
+The mean is 0.899868488312ms
+The standard deviation is 0.126078515249ms
+
+2016-02-11 17:17:26
+The mean is 0.898049592972ms
+The standard deviation is 0.11070279099ms
+
+2016-02-11 17:17:51
+The mean is 0.901187419891ms
+The standard deviation is 0.106779372719ms
+
+2016-02-11 17:18:16
+The mean is 0.910413503647ms
+The standard deviation is 0.120802568665ms
+
+2016-02-11 17:18:41
+The mean is 0.899946689606ms
+The standard deviation is 0.110897827693ms
+
+2016-02-11 17:19:06
+The mean is 0.898117780685ms
+The standard deviation is 0.0996347580941ms
+
+2016-02-11 17:19:31
+The mean is 0.901619195938ms
+The standard deviation is 0.113111676133ms
+
+2016-02-11 17:19:56
+The mean is 0.889998912811ms
+The standard deviation is 0.198678829018ms
+
+2016-02-11 17:20:21
+The mean is 0.848810911179ms
+The standard deviation is 0.232056377179ms
+
+2016-02-11 17:20:46
+The mean is 0.836055755615ms
+The standard deviation is 0.133774666867ms
+
+2016-02-11 17:21:11
+The mean is 0.899951457977ms
+The standard deviation is 0.117477589104ms
+
+2016-02-11 17:21:36
+The mean is 0.903973817825ms
+The standard deviation is 0.0985460489302ms
+
+2016-02-11 17:22:01
+The mean is 0.904487609863ms
+The standard deviation is 0.120299096043ms
+
+2016-02-11 17:22:26
+The mean is 0.891981601715ms
+The standard deviation is 0.0919759924961ms
+
+2016-02-11 17:22:51
+The mean is 0.895089149475ms
+The standard deviation is 0.099818842878ms
+
+2016-02-11 17:23:16
+The mean is 0.899161100388ms
+The standard deviation is 0.101611717405ms
+
+2016-02-11 17:23:41
+The mean is 0.916574716568ms
+The standard deviation is 0.125493911108ms
+
+2016-02-11 17:24:06
+The mean is 0.892483949661ms
+The standard deviation is 0.106941860262ms
+
+2016-02-11 17:24:31
+The mean is 0.89458656311ms
+The standard deviation is 0.124284242723ms
+
+2016-02-11 17:24:56
+The mean is 0.908279895782ms
+The standard deviation is 0.114304836547ms
+
+2016-02-11 17:25:21
+The mean is 0.886981010437ms
+The standard deviation is 0.10196766506ms
+
+2016-02-11 17:25:46
+The mean is 0.894939661026ms
+The standard deviation is 0.108390327313ms
+
+2016-02-11 17:26:12
+The mean is 0.885992288589ms
+The standard deviation is 0.0817720249921ms
+
+2016-02-11 17:26:37
+The mean is 0.897968530655ms
+The standard deviation is 0.0912950138002ms
+
+2016-02-11 17:27:02
+The mean is 0.899637699127ms
+The standard deviation is 0.110863116132ms
+
+2016-02-11 17:27:27
+The mean is 0.904905319214ms
+The standard deviation is 0.115728588348ms
+
+2016-02-11 17:27:52
+The mean is 0.913268566132ms
+The standard deviation is 0.129882887229ms
+
+2016-02-11 17:28:17
+The mean is 0.89541387558ms
+The standard deviation is 0.118776916542ms
+
+2016-02-11 17:28:42
+The mean is 0.907133579254ms
+The standard deviation is 0.148431927488ms
+
+2016-02-11 17:29:07
+The mean is 0.878232955933ms
+The standard deviation is 0.110622704031ms
+
+2016-02-11 17:29:32
+The mean is 0.879468917847ms
+The standard deviation is 0.1223128214ms
+
+2016-02-11 17:29:57
+The mean is 0.87686085701ms
+The standard deviation is 0.117157143819ms
+
+2016-02-11 17:30:22
+The mean is 0.893419504166ms
+The standard deviation is 0.111820833098ms
+
+2016-02-11 17:30:47
+The mean is 0.890954971313ms
+The standard deviation is 0.111875272466ms
+
+2016-02-11 17:31:12
+The mean is 0.895034074783ms
+The standard deviation is 0.120854574581ms
+
+2016-02-11 17:31:37
+The mean is 0.881129980087ms
+The standard deviation is 0.0993717719091ms
+
+2016-02-11 17:32:02
+The mean is 0.888535737991ms
+The standard deviation is 0.105184597612ms
+
+2016-02-11 17:32:27
+The mean is 0.886903047562ms
+The standard deviation is 0.0895765068862ms
+
+2016-02-11 17:32:52
+The mean is 0.894954204559ms
+The standard deviation is 0.12202694053ms
+
+2016-02-11 17:33:17
+The mean is 0.896107435226ms
+The standard deviation is 0.11224744977ms
+
+2016-02-11 17:33:42
+The mean is 0.887341737747ms
+The standard deviation is 0.108988044664ms
+
+2016-02-11 17:34:07
+The mean is 0.885250329971ms
+The standard deviation is 0.160172688452ms
+
+2016-02-11 17:34:32
+The mean is 0.824495077133ms
+The standard deviation is 0.198743372442ms
+
+2016-02-11 17:34:57
+The mean is 0.882495880127ms
+The standard deviation is 0.131534753524ms
+
+2016-02-11 17:35:22
+The mean is 0.895296096802ms
+The standard deviation is 0.125896313203ms
+
+2016-02-11 17:35:47
+The mean is 0.889175891876ms
+The standard deviation is 0.108084516595ms
+
+2016-02-11 17:36:12
+The mean is 0.906030654907ms
+The standard deviation is 0.132598582911ms
+
+2016-02-11 17:36:37
+The mean is 0.898258924484ms
+The standard deviation is 0.128306073999ms
+
+2016-02-11 17:37:02
+The mean is 0.906630277634ms
+The standard deviation is 0.133740736189ms
+
+2016-02-11 17:37:27
+The mean is 0.908084392548ms
+The standard deviation is 0.114056802502ms
+
+2016-02-11 17:37:52
+The mean is 0.903194189072ms
+The standard deviation is 0.115492558361ms
+
+2016-02-11 17:38:17
+The mean is 0.910141944885ms
+The standard deviation is 0.127739542719ms
+
+2016-02-11 17:38:42
+The mean is 0.914365768433ms
+The standard deviation is 0.140578946691ms
+
+2016-02-11 17:39:07
+The mean is 0.909910678864ms
+The standard deviation is 0.128316043927ms
+
+2016-02-11 17:39:32
+The mean is 0.913777828217ms
+The standard deviation is 0.139508954748ms
+
+2016-02-11 17:39:57
+The mean is 0.914199352264ms
+The standard deviation is 0.140267152105ms
+
+2016-02-11 17:40:22
+The mean is 0.917329549789ms
+The standard deviation is 0.143503521366ms
+
+2016-02-11 17:40:47
+The mean is 0.906259536743ms
+The standard deviation is 0.121041288464ms
+
+2016-02-11 17:41:12
+The mean is 0.917018413544ms
+The standard deviation is 0.128946621252ms
+
+2016-02-11 17:41:37
+The mean is 0.911959648132ms
+The standard deviation is 0.146081759405ms
+
+2016-02-11 17:42:02
+The mean is 0.914285182953ms
+The standard deviation is 0.134629760655ms
+
+2016-02-11 17:42:27
+The mean is 0.910364866257ms
+The standard deviation is 0.141582709628ms
+
+2016-02-11 17:42:52
+The mean is 0.905087709427ms
+The standard deviation is 0.106646772508ms
+
+2016-02-11 17:43:17
+The mean is 0.908451318741ms
+The standard deviation is 0.129326390919ms
+
+2016-02-11 17:43:42
+The mean is 0.906952619553ms
+The standard deviation is 0.112897419525ms
+
+2016-02-11 17:44:07
+The mean is 0.895085573196ms
+The standard deviation is 0.181560596582ms
+
+2016-02-11 17:44:32
+The mean is 1.21173667908ms
+The standard deviation is 0.525168209534ms
+
+2016-02-11 17:44:57
+The mean is 1.26968073845ms
+The standard deviation is 0.495955666958ms
+
+2016-02-11 17:45:22
+The mean is 1.12661838531ms
+The standard deviation is 0.339359143769ms
+
+2016-02-11 17:45:47
+The mean is 1.11673307419ms
+The standard deviation is 0.305744188416ms
+
+2016-02-11 17:46:12
+The mean is 1.13868045807ms
+The standard deviation is 0.331021370203ms
+
+2016-02-11 17:46:37
+The mean is 1.00104308128ms
+The standard deviation is 0.505009618152ms
+
+2016-02-11 17:47:02
+The mean is 0.900112867355ms
+The standard deviation is 0.115316903397ms
+
+2016-02-11 17:47:27
+The mean is 0.91509270668ms
+The standard deviation is 0.133921557102ms
+
+2016-02-11 17:47:52
+The mean is 0.908170223236ms
+The standard deviation is 0.114071558365ms
+
+2016-02-11 17:48:17
+The mean is 0.909260511398ms
+The standard deviation is 0.135740503956ms
+
+2016-02-11 17:48:42
+The mean is 0.910520553589ms
+The standard deviation is 0.136614006435ms
+
+2016-02-11 17:49:07
+The mean is 0.910384893417ms
+The standard deviation is 0.125149665138ms
+
+2016-02-11 17:49:32
+The mean is 0.909224271774ms
+The standard deviation is 0.106950326449ms
+
+2016-02-11 17:49:57
+The mean is 0.895075082779ms
+The standard deviation is 0.137571809112ms
+
+2016-02-11 17:50:22
+The mean is 0.915967941284ms
+The standard deviation is 0.130109279868ms
+
+2016-02-11 17:50:47
+The mean is 0.910067796707ms
+The standard deviation is 0.136502141371ms
+
+2016-02-11 17:51:13
+The mean is 0.91045165062ms
+The standard deviation is 0.121482795354ms
+
+2016-02-11 17:51:38
+The mean is 0.912856817245ms
+The standard deviation is 0.115431524654ms
+
+2016-02-11 17:52:03
+The mean is 0.911051988602ms
+The standard deviation is 0.119515077491ms
+
+2016-02-11 17:52:28
+The mean is 0.909153938293ms
+The standard deviation is 0.120274806335ms
+
+2016-02-11 17:52:53
+The mean is 0.913876056671ms
+The standard deviation is 0.137454052324ms
+
+2016-02-11 17:53:18
+The mean is 0.91401553154ms
+The standard deviation is 0.165244011261ms
+
+2016-02-11 17:53:43
+The mean is 0.833592176437ms
+The standard deviation is 0.243232637452ms
+
+2016-02-11 17:54:08
+The mean is 0.924953460693ms
+The standard deviation is 0.202559786482ms
+
+2016-02-11 17:54:33
+The mean is 0.870897769928ms
+The standard deviation is 0.353846568486ms
+
+2016-02-11 17:54:58
+The mean is 1.27414512634ms
+The standard deviation is 0.734958690419ms
+
+2016-02-11 17:55:23
+The mean is 1.13494467735ms
+The standard deviation is 0.454785154571ms
+
+2016-02-11 17:55:48
+The mean is 0.865074396133ms
+The standard deviation is 0.232525744843ms
+
+2016-02-11 17:56:13
+The mean is 0.765287399292ms
+The standard deviation is 0.288062623747ms
+
+2016-02-11 17:56:38
+The mean is 0.901696443558ms
+The standard deviation is 0.101106465932ms
+
+2016-02-11 17:57:03
+The mean is 0.903256177902ms
+The standard deviation is 0.119648098375ms
+
+2016-02-11 17:57:28
+The mean is 0.902104139328ms
+The standard deviation is 0.179586875306ms
+
+2016-02-11 17:57:53
+The mean is 0.903205156326ms
+The standard deviation is 0.139774725727ms
+
+2016-02-11 17:58:18
+The mean is 0.893878936768ms
+The standard deviation is 0.119601505217ms
+
+2016-02-11 17:58:43
+The mean is 0.887388944626ms
+The standard deviation is 0.183531612754ms
+
+2016-02-11 17:59:09
+The mean is 0.924623727798ms
+The standard deviation is 0.204724738952ms
+
+2016-02-11 17:59:34
+The mean is 0.891157388687ms
+The standard deviation is 0.103457532225ms
+
+2016-02-11 17:59:59
+The mean is 0.896806001663ms
+The standard deviation is 0.161949803155ms
+
+2016-02-11 18:00:24
+The mean is 0.863667011261ms
+The standard deviation is 0.170306067872ms
+
+2016-02-11 18:00:49
+The mean is 0.90985250473ms
+The standard deviation is 0.127325371653ms
+
+2016-02-11 18:01:14
+The mean is 0.890372753143ms
+The standard deviation is 0.102226378027ms
+
+2016-02-11 18:01:39
+The mean is 0.80167388916ms
+The standard deviation is 0.21452077066ms
+
+2016-02-11 18:02:04
+The mean is 0.896674871445ms
+The standard deviation is 0.118207164439ms
+
+2016-02-11 18:02:29
+The mean is 0.888129234314ms
+The standard deviation is 0.188150314545ms
+
+2016-02-11 18:02:54
+The mean is 0.89063334465ms
+The standard deviation is 0.10651793226ms
+
+2016-02-11 18:03:19
+The mean is 0.885886907578ms
+The standard deviation is 0.0990896412604ms
+
+2016-02-11 18:03:44
+The mean is 0.88641667366ms
+The standard deviation is 0.096490017045ms
+
+2016-02-11 18:04:09
+The mean is 0.890593290329ms
+The standard deviation is 0.107012502542ms
+
+2016-02-11 18:04:34
+The mean is 0.896082162857ms
+The standard deviation is 0.106905029476ms
+
+2016-02-11 18:04:59
+The mean is 0.891846418381ms
+The standard deviation is 0.107526597156ms
+
+2016-02-11 18:05:24
+The mean is 0.879765272141ms
+The standard deviation is 0.193908767279ms
+
+2016-02-11 18:05:49
+The mean is 0.897191286087ms
+The standard deviation is 0.301910369883ms
+
+2016-02-11 18:06:14
+The mean is 0.479205846786ms
+The standard deviation is 0.233275518ms
+
+2016-02-11 18:06:39
+The mean is 0.902359724045ms
+The standard deviation is 0.261686463018ms
+
+2016-02-11 18:07:04
+The mean is 0.810993671417ms
+The standard deviation is 0.267571480818ms
+
+2016-02-11 18:07:29
+The mean is 0.891048192978ms
+The standard deviation is 0.121886171297ms
+
+2016-02-11 18:07:54
+The mean is 0.885288715363ms
+The standard deviation is 0.0972383921656ms
+
+2016-02-11 18:08:19
+The mean is 0.885498046875ms
+The standard deviation is 0.107318610509ms
+
+2016-02-11 18:08:44
+The mean is 0.692327976227ms
+The standard deviation is 0.375485545003ms
+
+2016-02-11 18:09:10
+The mean is 0.257205963135ms
+The standard deviation is 0.20042656115ms
+
+2016-02-11 18:09:35
+The mean is 0.187723636627ms
+The standard deviation is 0.0406195064058ms
+
+2016-02-11 18:10:00
+The mean is 0.361105203629ms
+The standard deviation is 0.28308870187ms
+
+2016-02-11 18:10:25
+The mean is 0.881404161453ms
+The standard deviation is 0.108916449215ms
+
+2016-02-11 18:10:50
+The mean is 0.820818424225ms
+The standard deviation is 0.211536644996ms
+
+2016-02-11 18:11:15
+The mean is 0.885264635086ms
+The standard deviation is 0.108543870603ms
+
+2016-02-11 18:11:40
+The mean is 0.886750221252ms
+The standard deviation is 0.0957696770312ms
+
+2016-02-11 18:12:05
+The mean is 0.895364999771ms
+The standard deviation is 0.11621597449ms
+
+2016-02-11 18:12:30
+The mean is 0.895375728607ms
+The standard deviation is 0.118195073507ms
+
+2016-02-11 18:12:55
+The mean is 0.884735107422ms
+The standard deviation is 0.0827680620242ms
+
+2016-02-11 18:13:20
+The mean is 0.890895843506ms
+The standard deviation is 0.10240074549ms
+
+2016-02-11 18:13:45
+The mean is 0.890095472336ms
+The standard deviation is 0.10334518127ms
+
+2016-02-11 18:14:10
+The mean is 0.890402555466ms
+The standard deviation is 0.106900046441ms
+
+2016-02-11 18:14:35
+The mean is 0.890579938889ms
+The standard deviation is 0.10007871784ms
+
+2016-02-11 18:15:00
+The mean is 0.899413824081ms
+The standard deviation is 0.119203110243ms
+
+2016-02-11 18:15:25
+The mean is 0.888251066208ms
+The standard deviation is 0.099902529281ms
+
+2016-02-11 18:15:50
+The mean is 0.897891521454ms
+The standard deviation is 0.120675254478ms
+
+2016-02-11 18:16:15
+The mean is 1.01137375832ms
+The standard deviation is 0.476525677569ms
+
+2016-02-11 18:16:40
+The mean is 1.23945260048ms
+The standard deviation is 0.45806465946ms
+
+2016-02-11 18:17:05
+The mean is 1.23933696747ms
+The standard deviation is 0.474556947202ms
+
+2016-02-11 18:17:30
+The mean is 1.27708697319ms
+The standard deviation is 0.514032762868ms
+
+2016-02-11 18:17:55
+The mean is 1.22026777267ms
+The standard deviation is 0.531232119758ms
+
+2016-02-11 18:18:21
+The mean is 0.516461133957ms
+The standard deviation is 0.355999372842ms
+
+2016-02-11 18:18:46
+The mean is 0.213542699814ms
+The standard deviation is 0.109530004727ms
+
+2016-02-11 18:19:11
+The mean is 0.187540054321ms
+The standard deviation is 0.0283903253876ms
+
+2016-02-11 18:19:36
+The mean is 0.573189020157ms
+The standard deviation is 0.36936857477ms
+
+2016-02-11 18:20:01
+The mean is 0.889715194702ms
+The standard deviation is 0.0967587999961ms
+
+2016-02-11 18:20:26
+The mean is 0.891886472702ms
+The standard deviation is 0.121073256619ms
+
+2016-02-11 18:20:51
+The mean is 0.889801740646ms
+The standard deviation is 0.116115652953ms
+
+2016-02-11 18:21:16
+The mean is 0.893733501434ms
+The standard deviation is 0.104334808725ms
+
+2016-02-11 16:54:32
+The mean is 0.882396936417ms
+The standard deviation is 0.145991452134ms
+
+2016-02-11 16:54:57
+The mean is 0.934094190598ms
+The standard deviation is 0.182830003783ms
+
+                                                                                                                                                                                         2016-02-11 16:29:43
+The mean is 0.733004808426ms
+The standard deviation is 0.378198630765ms
+
+2016-02-11 16:30:08
+The mean is 0.935466527939ms
+The standard deviation is 0.382852654603ms
+
+2016-02-11 16:30:33
+The mean is 0.789466381073ms
+The standard deviation is 0.37419136428ms
+
+2016-02-11 16:30:58
+The mean is 0.866780042648ms
+The standard deviation is 0.380416765627ms
+
+2016-02-11 16:31:23
+The mean is 0.866879463196ms
+The standard deviation is 0.407502431372ms
+
+2016-02-11 16:31:48
+The mean is 0.934741258621ms
+The standard deviation is 0.388878989716ms
+
+2016-02-11 16:32:13
+The mean is 0.945230722427ms
+The standard deviation is 0.515070045376ms
+
+2016-02-11 16:32:38
+The mean is 0.775829315186ms
+The standard deviation is 0.369297742928ms
+
+2016-02-11 16:33:03
+The mean is 0.946178913116ms
+The standard deviation is 0.351038388205ms
+
+2016-02-11 16:33:28
+The mean is 0.780579805374ms
+The standard deviation is 0.298110793874ms
+
+2016-02-11 16:33:53
+The mean is 0.892992019653ms
+The standard deviation is 0.361888679041ms
+
+2016-02-11 16:34:18
+The mean is 0.799957275391ms
+The standard deviation is 0.393789285371ms
+
+2016-02-11 16:34:43
+The mean is 0.65122961998ms
+The standard deviation is 0.306772048017ms
+
+2016-02-11 16:35:08
+The mean is 0.640107631683ms
+The standard deviation is 0.291282158948ms
+
+2016-02-11 16:35:33
+The mean is 0.63688993454ms
+The standard deviation is 0.271851632233ms
+
+2016-02-11 16:35:58
+The mean is 0.652633428574ms
+The standard deviation is 0.312562667265ms
+
+2016-02-11 16:36:23
+The mean is 0.630393028259ms
+The standard deviation is 0.292614323796ms
+
+2016-02-11 16:36:48
+The mean is 0.634270191193ms
+The standard deviation is 0.29737054713ms
+
+2016-02-11 16:37:13
+The mean is 0.620768785477ms
+The standard deviation is 0.288568197329ms
+
+2016-02-11 16:37:38
+The mean is 0.713868141174ms
+The standard deviation is 0.318831055427ms
+
+2016-02-11 16:38:03
+The mean is 0.289111614227ms
+The standard deviation is 0.237697633667ms
+
+2016-02-11 16:38:28
+The mean is 0.189521074295ms
+The standard deviation is 0.0297562115806ms
+
+2016-02-11 16:38:53
+The mean is 0.20591878891ms
+The standard deviation is 0.07461888369ms
+
+2016-02-11 16:39:18
+The mean is 0.783710241318ms
+The standard deviation is 0.271741209085ms
+
+2016-02-11 16:39:43
+The mean is 0.892577886581ms
+The standard deviation is 0.106645924843ms
+
+2016-02-11 16:40:08
+The mean is 0.895884037018ms
+The standard deviation is 0.113574928756ms
+
+2016-02-11 16:40:33
+The mean is 0.908997058868ms
+The standard deviation is 0.130572990389ms
+
+2016-02-11 16:40:58
+The mean is 0.894832611084ms
+The standard deviation is 0.0992192298703ms
+
+2016-02-11 16:41:23
+The mean is 0.893336057663ms
+The standard deviation is 0.10288705127ms
+
+2016-02-11 16:41:48
+The mean is 0.906872987747ms
+The standard deviation is 0.126198101473ms
+
+2016-02-11 16:42:13
+The mean is 0.891464710236ms
+The standard deviation is 0.0887648752793ms
+
+2016-02-11 16:42:38
+The mean is 0.893901586533ms
+The standard deviation is 0.0937342005393ms
+
+2016-02-11 16:43:03
+The mean is 0.904038190842ms
+The standard deviation is 0.103342172493ms
+
+2016-02-11 16:43:28
+The mean is 0.892448425293ms
+The standard deviation is 0.0947071385491ms
+
+2016-02-11 16:43:53
+The mean is 0.903659820557ms
+The standard deviation is 0.105366896806ms
+
+2016-02-11 16:44:18
+The mean is 0.808398008347ms
+The standard deviation is 0.258661294853ms
+
+2016-02-11 16:44:44
+The mean is 0.857069015503ms
+The standard deviation is 0.612630219275ms
+
+2016-02-11 16:45:09
+The mean is 1.3214495182ms
+The standard deviation is 0.490000210959ms
+
+2016-02-11 16:45:34
+The mean is 1.2843337059ms
+The standard deviation is 0.562175196576ms
+
+2016-02-11 16:45:59
+The mean is 0.789532184601ms
+The standard deviation is 0.27661457188ms
+
+2016-02-11 16:46:24
+The mean is 0.779683113098ms
+The standard deviation is 0.278422175282ms
+
+2016-02-11 16:46:49
+The mean is 0.831074714661ms
+The standard deviation is 0.231356910366ms
+
+2016-02-11 16:47:14
+The mean is 0.886722564697ms
+The standard deviation is 0.107919547682ms
+
+2016-02-11 16:47:39
+The mean is 0.86968755722ms
+The standard deviation is 0.146328569815ms
+
+2016-02-11 16:48:04
+The mean is 0.727365255356ms
+The standard deviation is 0.219060527598ms
+
+2016-02-11 16:48:29
+The mean is 0.73273730278ms
+The standard deviation is 0.214632129227ms
+
+2016-02-11 16:48:54
+The mean is 0.872199773788ms
+The standard deviation is 0.252567337085ms
+
+2016-02-11 16:49:19
+The mean is 0.869957685471ms
+The standard deviation is 0.227639544694ms
+
+2016-02-11 16:49:44
+The mean is 0.848178625107ms
+The standard deviation is 0.228825293406ms
+
+2016-02-11 16:50:09
+The mean is 0.769453763962ms
+The standard deviation is 0.230461192047ms
+
+2016-02-11 16:50:34
+The mean is 0.825964212418ms
+The standard deviation is 0.231465129085ms
+
+2016-02-11 16:50:59
+The mean is 0.779897689819ms
+The standard deviation is 0.248144156693ms
+
+2016-02-11 16:51:24
+The mean is 0.847409009933ms
+The standard deviation is 0.203826703583ms
+
+2016-02-11 16:51:49
+The mean is 0.750890493393ms
+The standard deviation is 0.247633295139ms
+
+2016-02-11 16:52:14
+The mean is 0.821556091309ms
+The standard deviation is 0.178578800619ms
+
+2016-02-11 16:52:39
+The mean is 0.895134687424ms
+The standard deviation is 0.0946541910026ms
+
+2016-02-11 16:53:04
+The mean is 0.89923620224ms
+The standard deviation is 0.0899607828044ms
+
+2016-02-11 16:53:29
+The mean is 0.903443336487ms
+The standard deviation is 0.108901620595ms
+
+2016-02-11 16:53:54
+The mean is 0.89633846283ms
+The standard deviation is 0.113146829286ms
+
+2016-02-11 16:54:19
+The mean is 0.904391050339ms
+The standard deviation is 0.119377317341ms
+
+2016-02-11 16:54:44
+The mean is 0.899873495102ms
+The standard deviation is 0.104546065028ms
+
+2016-02-11 16:55:09
+The mean is 0.904239416122ms
+The standard deviation is 0.110264452257ms
+
+2016-02-11 16:55:34
+The mean is 0.900957584381ms
+The standard deviation is 0.0877869459009ms
+
+2016-02-11 16:55:59
+The mean is 0.890999078751ms
+The standard deviation is 0.0850230693417ms
+
+2016-02-11 16:56:24
+The mean is 0.904698133469ms
+The standard deviation is 0.110057836054ms
+
+2016-02-11 16:56:49
+The mean is 0.900424003601ms
+The standard deviation is 0.106848419497ms
+
+2016-02-11 16:57:14
+The mean is 0.827333211899ms
+The standard deviation is 0.32175277706ms
+
+2016-02-11 16:57:39
+The mean is 1.35036063194ms
+The standard deviation is 0.523970746212ms
+
+2016-02-11 16:58:04
+The mean is 1.32315611839ms
+The standard deviation is 0.581316295309ms
+
+2016-02-11 16:58:29
+The mean is 1.30594825745ms
+The standard deviation is 0.522369896293ms
+
+2016-02-11 16:58:54
+The mean is 1.29719281197ms
+The standard deviation is 0.491866597463ms
+
+2016-02-11 16:59:19
+The mean is 1.27677321434ms
+The standard deviation is 0.52335348627ms
+
+2016-02-11 16:59:44
+The mean is 1.30149793625ms
+The standard deviation is 0.460652434035ms
+
+2016-02-11 17:00:09
+The mean is 1.31714057922ms
+The standard deviation is 0.508667120244ms
+
+2016-02-11 17:00:34
+The mean is 1.32136416435ms
+The standard deviation is 0.502087722897ms
+
+2016-02-11 17:00:59
+The mean is 1.32567405701ms
+The standard deviation is 0.51852844894ms
+
+2016-02-11 17:01:24
+The mean is 1.15444612503ms
+The standard deviation is 0.38584737238ms
+
+2016-02-11 17:01:49
+The mean is 1.32339525223ms
+The standard deviation is 0.504599181997ms
+
+2016-02-11 17:02:14
+The mean is 1.26961517334ms
+The standard deviation is 0.498240657016ms
+
+2016-02-11 17:02:39
+The mean is 1.31458973885ms
+The standard deviation is 0.493017791471ms
+
+2016-02-11 17:03:04
+The mean is 1.27827548981ms
+The standard deviation is 0.500934019853ms
+
+2016-02-11 17:03:29
+The mean is 1.34383153915ms
+The standard deviation is 0.530026966276ms
+
+2016-02-11 17:03:54
+The mean is 1.29391741753ms
+The standard deviation is 0.541158505008ms
+
+2016-02-11 17:04:19
+The mean is 1.30788493156ms
+The standard deviation is 0.534714218318ms
+
+2016-02-11 17:04:44
+The mean is 1.32267618179ms
+The standard deviation is 0.498648291324ms
+
+2016-02-11 17:05:09
+The mean is 1.31659293175ms
+The standard deviation is 0.542193995854ms
+
+2016-02-11 17:05:34
+The mean is 1.30200886726ms
+The standard deviation is 0.526042565598ms
+
+2016-02-11 17:05:59
+The mean is 1.32253575325ms
+The standard deviation is 0.501296928743ms
+
+2016-02-11 17:06:24
+The mean is 1.2782137394ms
+The standard deviation is 0.57504163165ms
+
+2016-02-11 17:06:49
+The mean is 1.31512665749ms
+The standard deviation is 0.481992404193ms
+
+2016-02-11 17:07:15
+The mean is 1.2864985466ms
+The standard deviation is 0.506603117078ms
+
+2016-02-11 17:07:40
+The mean is 1.30696845055ms
+The standard deviation is 0.515186579947ms
+
+2016-02-11 17:08:05
+The mean is 1.31746482849ms
+The standard deviation is 0.506066310402ms
+
+2016-02-11 17:08:30
+The mean is 1.03721427917ms
+The standard deviation is 0.586009812558ms
+
+2016-02-11 17:08:55
+The mean is 0.455165863037ms
+The standard deviation is 0.344841802374ms
+
+2016-02-11 17:09:20
+The mean is 0.204756975174ms
+The standard deviation is 0.088645523755ms
+
+2016-02-11 17:09:45
+The mean is 0.215300798416ms
+The standard deviation is 0.138443662846ms
+
+2016-02-11 17:10:10
+The mean is 0.912092208862ms
+The standard deviation is 0.166434441675ms
+
+2016-02-11 17:10:35
+The mean is 0.900902271271ms
+The standard deviation is 0.11533410408ms
+
+2016-02-11 17:11:00
+The mean is 0.807652711868ms
+The standard deviation is 0.253640877225ms
+
+2016-02-11 17:11:25
+The mean is 0.787752389908ms
+The standard deviation is 0.145308549461ms
+
+2016-02-11 17:11:50
+The mean is 0.768101215363ms
+The standard deviation is 0.193480736845ms
+
+2016-02-11 17:12:15
+The mean is 0.796909332275ms
+The standard deviation is 0.218001008581ms
+
+2016-02-11 17:12:40
+The mean is 0.828545331955ms
+The standard deviation is 0.113926382932ms
+
+2016-02-11 17:13:05
+The mean is 0.899986982346ms
+The standard deviation is 0.108408270453ms
+
+2016-02-11 17:13:30
+The mean is 0.900414228439ms
+The standard deviation is 0.108607358817ms
+
+2016-02-11 17:13:55
+The mean is 0.903445005417ms
+The standard deviation is 0.0979257923738ms
+
+2016-02-11 17:14:20
+The mean is 0.900369167328ms
+The standard deviation is 0.0923483169677ms
+
+2016-02-11 17:14:45
+The mean is 0.896112442017ms
+The standard deviation is 0.121817664347ms
+
+2016-02-11 17:15:10
+The mean is 0.948331356049ms
+The standard deviation is 0.185799338324ms
+
+2016-02-11 17:15:35
+The mean is 0.85081076622ms
+The standard deviation is 0.331394289511ms
+
+2016-02-11 17:16:00
+The mean is 0.834767818451ms
+The standard deviation is 0.241436420749ms
+
+2016-02-11 17:16:25
+The mean is 0.627346754074ms
+The standard deviation is 0.304818720934ms
+
+2016-02-11 17:16:50
+The mean is 0.208526134491ms
+The standard deviation is 0.107516669201ms
+
+2016-02-11 17:17:15
+The mean is 0.183707237244ms
+The standard deviation is 0.0265821505911ms
+
+2016-02-11 17:17:40
+The mean is 0.590887069702ms
+The standard deviation is 0.29529327127ms
+
+2016-02-11 17:18:05
+The mean is 0.757727622986ms
+The standard deviation is 0.245631215977ms
+
+2016-02-11 17:18:30
+The mean is 0.208821773529ms
+The standard deviation is 0.107624323978ms
+
+2016-02-11 17:18:55
+The mean is 0.190242767334ms
+The standard deviation is 0.0476786443302ms
+
+2016-02-11 17:19:20
+The mean is 0.521401882172ms
+The standard deviation is 0.352016858162ms
+
+2016-02-11 17:19:45
+The mean is 0.892381906509ms
+The standard deviation is 0.0941327695242ms
+
+2016-02-11 17:20:10
+The mean is 0.899267196655ms
+The standard deviation is 0.110197899814ms
+
+2016-02-11 17:20:35
+The mean is 0.901652812958ms
+The standard deviation is 0.119975652755ms
+
+2016-02-11 17:21:00
+The mean is 0.90457201004ms
+The standard deviation is 0.10989224247ms
+
+2016-02-11 17:21:25
+The mean is 0.895085096359ms
+The standard deviation is 0.10008194131ms
+
+2016-02-11 17:21:50
+The mean is 0.902079582214ms
+The standard deviation is 0.106346449069ms
+
+2016-02-11 17:22:15
+The mean is 0.832309961319ms
+The standard deviation is 0.207764107126ms
+
+2016-02-11 17:22:40
+The mean is 0.907621145248ms
+The standard deviation is 0.112819609426ms
+
+2016-02-11 17:23:05
+The mean is 0.906325817108ms
+The standard deviation is 0.114468054029ms
+
+2016-02-11 17:23:30
+The mean is 0.901836872101ms
+The standard deviation is 0.102475735605ms
+
+2016-02-11 17:23:55
+The mean is 0.901136636734ms
+The standard deviation is 0.100757944835ms
+
+2016-02-11 17:24:20
+The mean is 0.904110193253ms
+The standard deviation is 0.104444737006ms
+
+2016-02-11 17:24:45
+The mean is 0.850176095963ms
+The standard deviation is 0.18642861041ms
+
+2016-02-11 17:25:10
+The mean is 0.546831130981ms
+The standard deviation is 0.356951366191ms
+
+2016-02-11 17:25:35
+The mean is 0.21625328064ms
+The standard deviation is 0.12044311286ms
+
+2016-02-11 17:26:00
+The mean is 0.184412240982ms
+The standard deviation is 0.0262697675085ms
+
+2016-02-11 17:26:25
+The mean is 0.756362438202ms
+The standard deviation is 0.286277533211ms
+
+2016-02-11 17:26:50
+The mean is 0.903555631638ms
+The standard deviation is 0.11790137957ms
+
+2016-02-11 17:27:15
+The mean is 0.892902374268ms
+The standard deviation is 0.0926818202103ms
+
+2016-02-11 17:27:40
+The mean is 0.905446767807ms
+The standard deviation is 0.110054342037ms
+
+2016-02-11 17:28:06
+The mean is 0.900510072708ms
+The standard deviation is 0.111266965059ms
+
+2016-02-11 17:28:31
+The mean is 0.893153190613ms
+The standard deviation is 0.108164867353ms
+
+2016-02-11 17:28:56
+The mean is 0.841220617294ms
+The standard deviation is 0.189218532109ms
+
+2016-02-11 17:29:21
+The mean is 0.832542896271ms
+The standard deviation is 0.196256955966ms
+
+2016-02-11 17:29:46
+The mean is 0.901875734329ms
+The standard deviation is 0.11068341043ms
+
+2016-02-11 17:30:11
+The mean is 0.902149677277ms
+The standard deviation is 0.11110939212ms
+
+2016-02-11 17:30:36
+The mean is 0.896189689636ms
+The standard deviation is 0.106071743739ms
+
+2016-02-11 17:31:01
+The mean is 0.896026611328ms
+The standard deviation is 0.11595462305ms
+
+2016-02-11 17:31:26
+The mean is 0.897867202759ms
+The standard deviation is 0.111649305408ms
+
+2016-02-11 17:31:51
+The mean is 0.90159869194ms
+The standard deviation is 0.110964511617ms
+
+2016-02-11 17:32:16
+The mean is 0.894466876984ms
+The standard deviation is 0.109511823241ms
+
+2016-02-11 17:32:41
+The mean is 0.904060125351ms
+The standard deviation is 0.111333332027ms
+
+2016-02-11 17:33:06
+The mean is 0.895862817764ms
+The standard deviation is 0.0958189449136ms
+
+2016-02-11 17:33:31
+The mean is 0.896368980408ms
+The standard deviation is 0.100561141574ms
+
+2016-02-11 17:33:56
+The mean is 0.894277334213ms
+The standard deviation is 0.104899394501ms
+
+2016-02-11 17:34:21
+The mean is 0.877410888672ms
+The standard deviation is 0.175449465468ms
+
+2016-02-11 17:34:46
+The mean is 0.984164953232ms
+The standard deviation is 0.353531391908ms
+
+2016-02-11 17:35:11
+The mean is 1.25101184845ms
+The standard deviation is 0.491279366293ms
+
+2016-02-11 17:35:36
+The mean is 1.29572725296ms
+The standard deviation is 0.519798245174ms
+
+2016-02-11 17:36:01
+The mean is 1.30154132843ms
+The standard deviation is 0.579377004318ms
+
+2016-02-11 17:36:26
+The mean is 1.3141720295ms
+The standard deviation is 0.518585746827ms
+
+2016-02-11 17:36:51
+The mean is 1.32449817657ms
+The standard deviation is 0.544707134788ms
+
+2016-02-11 17:37:16
+The mean is 1.304915905ms
+The standard deviation is 0.526215468191ms
+
+2016-02-11 17:37:41
+The mean is 1.31179618835ms
+The standard deviation is 0.490893700969ms
+
+2016-02-11 17:38:06
+The mean is 1.30371642113ms
+The standard deviation is 0.490884445018ms
+
+2016-02-11 17:38:31
+The mean is 1.29124069214ms
+The standard deviation is 0.519502087695ms
+
+2016-02-11 17:38:56
+The mean is 1.31509327888ms
+The standard deviation is 0.545681074534ms
+
+2016-02-11 17:39:21
+The mean is 1.25316333771ms
+The standard deviation is 0.500520918732ms
+
+2016-02-11 17:39:46
+The mean is 1.27707195282ms
+The standard deviation is 0.494942992029ms
+
+2016-02-11 17:40:11
+The mean is 1.290122509ms
+The standard deviation is 0.492608559093ms
+
+2016-02-11 17:40:36
+The mean is 1.30941724777ms
+The standard deviation is 0.502714364812ms
+
+2016-02-11 17:41:01
+The mean is 1.32932782173ms
+The standard deviation is 0.543482405077ms
+
+2016-02-11 17:41:26
+The mean is 1.32143235207ms
+The standard deviation is 0.527079610042ms
+
+2016-02-11 17:41:51
+The mean is 1.29390573502ms
+The standard deviation is 0.507868138128ms
+
+2016-02-11 17:42:16
+The mean is 1.28600382805ms
+The standard deviation is 0.506443598248ms
+
+2016-02-11 17:42:41
+The mean is 1.29008460045ms
+The standard deviation is 0.475538625791ms
+
+2016-02-11 17:43:06
+The mean is 1.28845572472ms
+The standard deviation is 0.49129138648ms
+
+2016-02-11 17:43:31
+The mean is 1.28985834122ms
+The standard deviation is 0.477939049651ms
+
+2016-02-11 17:43:56
+The mean is 1.31305503845ms
+The standard deviation is 0.487434876149ms
+
+2016-02-11 17:44:21
+The mean is 1.28626394272ms
+The standard deviation is 0.489673689032ms
+
+2016-02-11 17:44:46
+The mean is 1.29983949661ms
+The standard deviation is 0.501129677013ms
+
+2016-02-11 17:45:11
+The mean is 1.29135656357ms
+The standard deviation is 0.495625868689ms
+
+2016-02-11 17:45:36
+The mean is 1.31137633324ms
+The standard deviation is 0.493152450792ms
+
+2016-02-11 17:46:01
+The mean is 1.26886415482ms
+The standard deviation is 0.46948278746ms
+
+2016-02-11 17:46:26
+The mean is 1.12527251244ms
+The standard deviation is 0.307218699485ms
+
+2016-02-11 17:46:51
+The mean is 0.804716587067ms
+The standard deviation is 0.349020317961ms
+
+2016-02-11 17:47:16
+The mean is 0.895242214203ms
+The standard deviation is 0.114440323728ms
+
+2016-02-11 17:47:41
+The mean is 0.89411854744ms
+The standard deviation is 0.085532515215ms
+
+2016-02-11 17:48:06
+The mean is 0.904512405396ms
+The standard deviation is 0.111931508688ms
+
+2016-02-11 17:48:31
+The mean is 0.899099826813ms
+The standard deviation is 0.10937371238ms
+
+2016-02-11 17:48:56
+The mean is 0.899235486984ms
+The standard deviation is 0.104262840279ms
+
+2016-02-11 17:49:21
+The mean is 0.898701906204ms
+The standard deviation is 0.0886654106487ms
+
+2016-02-11 17:49:46
+The mean is 0.901458740234ms
+The standard deviation is 0.107040987388ms
+
+2016-02-11 17:50:11
+The mean is 0.880506753922ms
+The standard deviation is 0.164621775353ms
+
+2016-02-11 17:50:36
+The mean is 0.900012254715ms
+The standard deviation is 0.128779243975ms
+
+2016-02-11 17:51:01
+The mean is 0.900144100189ms
+The standard deviation is 0.103800212618ms
+
+2016-02-11 17:51:27
+The mean is 0.90326499939ms
+The standard deviation is 0.109003811828ms
+
+2016-02-11 17:51:52
+The mean is 0.900482654572ms
+The standard deviation is 0.0951206852547ms
+
+2016-02-11 17:52:17
+The mean is 0.889424324036ms
+The standard deviation is 0.0852115992576ms
+
+2016-02-11 17:52:42
+The mean is 0.902164697647ms
+The standard deviation is 0.110189974516ms
+
+2016-02-11 17:53:07
+The mean is 0.906270503998ms
+The standard deviation is 0.115241017916ms
+
+2016-02-11 17:53:32
+The mean is 0.898594379425ms
+The standard deviation is 0.108561541443ms
+
+2016-02-11 17:53:57
+The mean is 0.895856380463ms
+The standard deviation is 0.0896283409865ms
+
+2016-02-11 17:54:22
+The mean is 0.904063224792ms
+The standard deviation is 0.110755977637ms
+
+2016-02-11 17:54:47
+The mean is 0.899408817291ms
+The standard deviation is 0.105785199628ms
+
+2016-02-11 19:18:18
+The mean is 0.869966983795ms
+The standard deviation is 0.22664594403ms
+
+2016-02-11 19:18:43
+The mean is 1.06217098236ms
+The standard deviation is 0.497967859238ms
+
+2016-02-11 19:19:09
+The mean is 0.742055177689ms
+The standard deviation is 0.24091957264ms
+
+2016-02-11 19:19:34
+The mean is 0.814426183701ms
+The standard deviation is 0.246919135885ms
+
+2016-02-11 19:19:59
+The mean is 0.788260698318ms
+The standard deviation is 0.199453027611ms
+
+2016-02-11 19:20:24
+The mean is 0.898776769638ms
+The standard deviation is 0.108435031518ms
+
+2016-02-11 19:20:49
+The mean is 0.767956733704ms
+The standard deviation is 0.237052764742ms
+
+2016-02-11 19:21:14
+The mean is 0.854320287704ms
+The standard deviation is 0.206685118362ms
+
+2016-02-11 19:21:39
+The mean is 0.889381170273ms
+The standard deviation is 0.106379373631ms
+
+2016-02-11 19:22:04
+The mean is 0.895077466965ms
+The standard deviation is 0.08696915773ms
+
+2016-02-11 19:22:29
+The mean is 0.83101940155ms
+The standard deviation is 0.18750758186ms
+
+2016-02-11 19:22:54
+The mean is 0.875329971313ms
+The standard deviation is 0.146564130768ms
+
+2016-02-11 19:23:19
+The mean is 0.869522571564ms
+The standard deviation is 0.196379344787ms
+
+2016-02-11 19:23:44
+The mean is 0.810057401657ms
+The standard deviation is 0.235335119756ms
+
+2016-02-11 19:24:09
+The mean is 0.282409191132ms
+The standard deviation is 0.248961457289ms
+
+2016-02-11 19:24:34
+The mean is 0.188302516937ms
+The standard deviation is 0.0320949746962ms
+
+2016-02-11 19:24:59
+The mean is 0.212834596634ms
+The standard deviation is 0.131082207116ms
+
+2016-02-11 19:25:24
+The mean is 0.794392585754ms
+The standard deviation is 0.0709527283173ms
+
+2016-02-11 19:25:49
+The mean is 0.79881477356ms
+The standard deviation is 0.0877363860504ms
+
+2016-02-11 19:26:14
+The mean is 0.83199930191ms
+The standard deviation is 0.0922960628748ms
+
+2016-02-11 19:26:39
+The mean is 0.857863664627ms
+The standard deviation is 0.09617774899ms
+
+2016-02-11 19:27:04
+The mean is 0.863835096359ms
+The standard deviation is 0.108405812237ms
+
+2016-02-11 19:27:30
+The mean is 0.857902526855ms
+The standard deviation is 0.0918456731809ms
+
+2016-02-11 19:27:55
+The mean is 0.861220121384ms
+The standard deviation is 0.105055036505ms
+
+2016-02-11 19:28:20
+The mean is 0.856961488724ms
+The standard deviation is 0.0973380088864ms
+
+2016-02-11 19:28:45
+The mean is 0.852691888809ms
+The standard deviation is 0.105556933844ms
+
+2016-02-11 19:29:10
+The mean is 0.858220100403ms
+The standard deviation is 0.118024897446ms
+
+2016-02-11 19:29:35
+The mean is 0.843407869339ms
+The standard deviation is 0.0879332001627ms
+

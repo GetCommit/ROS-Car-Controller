@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: color_tracking
+Description: Description of color_tracking
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: cv_bridge image_transport opencv3 roscpp

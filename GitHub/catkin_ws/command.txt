@@ -1,0 +1,25 @@
+TIMING TEST:
+cpu core index: 0, 3, 4, 5
+
+taskset -c 0 roscore
+taskset -c 0 rosrun rosserial_python serial_node.py /dev/ttyACM0
+taskset -c 0 rosrun urg_node urg_node _ip_address:=192.168.0.10
+taskset -c 3 rosrun race talker.py
+taskset -c 4 rosrun race dist_finder.py
+taskset -c 5 rosrun race control.py
+
+taskset -c 3 rosrun zed_wrapper zed_wrapper_node
+taskset -c 3 rosrun color_tracking color_tracking_node
+taskset -c 0 roscore & taskset -c 0 rosrun rosserial_python serial_node.py /dev/ttyACM0 & taskset -c 0 rosrun urg_node urg_node _ip_address:=192.168.0.10
+
+
+
+NORMAL TEST:
+roscore & rosrun rosserial_python serial_node.py /dev/ttyACM0 & rosrun urg_node urg_node _ip_address:=192.168.0.10
+rosrun zed_wrapper zed_wrapper_node
+rosrun color_tracking color_tracking_node
+
+rosrun race talker
+rosrun race dist_finder
+rosrun race control
+rosrun race kill.py
